@@ -1,0 +1,39 @@
+html{
+    height: 100%;
+}
+body{
+    height: 100%;
+    background:linear-gradient(rgba(255,255,255,.2), rgba(255,255,255,.2)), url(../images/background.png);
+}
+.day{
+    position:relative;
+    flex:1;
+}
+.date{
+    position:relative;
+    flex:2;
+}
+.rain{
+    width: 30px;
+    height: 30px;
+    background-color: white;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-image:url(../images/rain.png);
+}
+.clouds{
+    width: 30px;
+    height: 30px;
+    background-color: white;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-image:url(../images/clouds.png);
+}
+.clear{
+    width: 30px;
+    height: 30px;
+    background-color: white;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-image:url(../images/sun.png);
+}

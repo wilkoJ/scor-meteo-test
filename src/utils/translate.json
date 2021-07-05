@@ -1,0 +1,30 @@
+{"fr-FR":{
+    "CitySearch":{
+        "language":"fr-FR",
+        "searchTitle":"Entrez une ville pour voir si vous avez besoin d'un parapluie",
+        "noCity":"Cette ville n'existe pas!",
+        "city":"Ville",
+        "search":"Rechercher"
+    },
+    "MeteoDisplay":{
+        "langue":"fr-FR",
+        "days" : ["Dim.", "Lun.", "Mar.", "Mer.", "Jeu.", "Ven.", "Sam."],
+        "city":"Ville",
+        "backToSearch": "Retour à la recherche"
+    }
+},
+"en-EN":{
+    "CitySearch":{
+        "language":"fr-FR",
+        "searchTitle":"Enter a city to see if you need an umbrella",
+        "noCity":"City does not exist!",
+        "city":"City",
+        "search":"Search"
+    },
+    "MeteoDisplay":{
+        "langue":"fr-FR",
+        "days" : ["Sun.", "Mon.", "Tue.", "Wed.", "Thi.", "Fri.", "Sat."],
+        "city":"City",
+        "backToSearch": "Return to search"
+    }
+}}
